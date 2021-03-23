@@ -1,0 +1,93 @@
+body{
+  /* background-image: url("keko.jpg") ;*/
+   background-size: 9.2px 400px;
+   background-color: rgb(209, 30, 209);
+   font-size: 2em;
+   text-align: left;
+   text-transform: uppercase;
+   font-weight:lighter;
+   
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#tables{
+    text-align: center;
+}
+.links{
+    text-decoration:none;
+}
+.links:hover{
+    color: rgb(233, 16, 233);
+}
+p{
+    background-color: rgba(120, 183, 238, 0.4 );
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pic{
+height: 200px;
+width: 40%;
+border: 12px solid black;
+padding: 100px 40px 5px 0px
+
+}
+.title{
+    color: red;
+    background-color: antiquewhite;
+    
+}
+ .subtitle {
+     color: blue;
+     background-color: aliceblue;
+ }
+
+ #contact-us {
+     color: rgb(58, 252, 58);
+ }
+ table{
+     background-color: rgb(238, 240, 241);
+     border: 10px double red;
+ }
+ table:hover{
+     color: rgb(124, 235, 20);
+     font-style: normal;
+ }
+ 
+/*
+ li:first-child {color: red;}
+
+ li:nth-child(2) {
+     color: rgb(14, 138, 240);
+ }
+
+ a:hover{
+color: blueviolet;
+ }
+ a:visited{
+color: rgb(1, 166, 255);
+ }
+ */
+  
+ h2 + a {
+     color: rgb(123, 255, 0);
+ }
+
+ textarea ~ button{
+     color: purple;
+ }
+
+ ul > li {
+     color: rgb(22, 231, 168) ;
+ }
+
+ #buttomm{
+
+    height: 200px;
+    width: 35%;
+    align-items: center;
+    background: radial-gradient(circle, red 20%, rgb(255, 165, 0) 40%, yellow 30%, white) 10%;
+    border: 6px solid black;
+  
+}
+
+
